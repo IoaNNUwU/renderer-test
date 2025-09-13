@@ -5,7 +5,10 @@ fn main() {
 
     file.write_all("### List of all languages\n".as_bytes()).unwrap();
 
-    let ext: Vec<&str> = LANG.split_ascii_whitespace().filter(|string| !string.contains(".")).collect();
+    let ext: Vec<&str> = LANG.split_ascii_whitespace()
+        .filter(|string| !(string.contains(".") || string.contains("(")))
+        .filter(|string| FILTER.contains(string))
+        .collect();
 
     for ext in ext {
         let text = format!("
