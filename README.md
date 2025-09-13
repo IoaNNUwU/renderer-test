@@ -1,6 +1,6 @@
 ### List of all languages
 
-#### `.Cucumber`:
+#### `Cucumber`:
 ```Cucumber
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -39,7 +39,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.abap`:
+#### `abap`:
 ```abap
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -78,7 +78,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.ada`:
+#### `ada`:
 ```ada
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -117,7 +117,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.ahk`:
+#### `ahk`:
 ```ahk
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -156,7 +156,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.apacheconf`:
+#### `apacheconf`:
 ```apacheconf
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -195,7 +195,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.applescript`:
+#### `applescript`:
 ```applescript
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -234,7 +234,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.as`:
+#### `as`:
 ```as
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -273,7 +273,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.as3`:
+#### `as3`:
 ```as3
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -312,7 +312,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.asy`:
+#### `asy`:
 ```asy
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -351,7 +351,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.bash`:
+#### `bash`:
 ```bash
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -390,7 +390,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.bat`:
+#### `bat`:
 ```bat
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -429,7 +429,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.befunge`:
+#### `befunge`:
 ```befunge
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -468,7 +468,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.blitzmax`:
+#### `blitzmax`:
 ```blitzmax
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -507,7 +507,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.boo`:
+#### `boo`:
 ```boo
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -546,7 +546,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.brainfuck`:
+#### `brainfuck`:
 ```brainfuck
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -585,7 +585,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.c`:
+#### `c`:
 ```c
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -624,7 +624,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.cfm`:
+#### `cfm`:
 ```cfm
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -663,7 +663,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.cheetah`:
+#### `cheetah`:
 ```cheetah
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -702,7 +702,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.cl`:
+#### `cl`:
 ```cl
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -741,7 +741,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.clojure`:
+#### `clojure`:
 ```clojure
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -780,7 +780,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.cmake`:
+#### `cmake`:
 ```cmake
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -819,7 +819,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.coffeescript`:
+#### `coffeescript`:
 ```coffeescript
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -858,7 +858,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.console`:
+#### `console`:
 ```console
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -897,7 +897,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.control`:
+#### `control`:
 ```control
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -936,7 +936,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.('control')`:
+#### `('control')`:
 ```('control')
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -975,7 +975,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.cpp`:
+#### `cpp`:
 ```cpp
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1014,7 +1014,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.csharp`:
+#### `csharp`:
 ```csharp
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1053,7 +1053,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.css`:
+#### `css`:
 ```css
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1092,7 +1092,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.cython`:
+#### `cython`:
 ```cython
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1131,7 +1131,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.d`:
+#### `d`:
 ```d
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1170,7 +1170,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.delphi`:
+#### `delphi`:
 ```delphi
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1209,7 +1209,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.diff`:
+#### `diff`:
 ```diff
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1248,7 +1248,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.dpatch`:
+#### `dpatch`:
 ```dpatch
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1287,7 +1287,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.duel`:
+#### `duel`:
 ```duel
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1326,7 +1326,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.dylan`:
+#### `dylan`:
 ```dylan
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1365,7 +1365,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.erb`:
+#### `erb`:
 ```erb
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1404,7 +1404,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.erl`:
+#### `erl`:
 ```erl
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1443,7 +1443,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.erlang`:
+#### `erlang`:
 ```erlang
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1482,7 +1482,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.evoque`:
+#### `evoque`:
 ```evoque
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1521,7 +1521,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.factor`:
+#### `factor`:
 ```factor
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1560,7 +1560,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.felix`:
+#### `felix`:
 ```felix
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1599,7 +1599,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.fortran`:
+#### `fortran`:
 ```fortran
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1638,7 +1638,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.gas`:
+#### `gas`:
 ```gas
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1677,7 +1677,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.genshi`:
+#### `genshi`:
 ```genshi
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1716,7 +1716,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.gitignore`:
+#### `gitignore`:
 ```gitignore
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1755,7 +1755,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.glsl`:
+#### `glsl`:
 ```glsl
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1794,7 +1794,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.gnuplot`:
+#### `gnuplot`:
 ```gnuplot
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1833,7 +1833,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.go`:
+#### `go`:
 ```go
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1872,7 +1872,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.groff`:
+#### `groff`:
 ```groff
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1911,7 +1911,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.haml`:
+#### `haml`:
 ```haml
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1950,7 +1950,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.haskell`:
+#### `haskell`:
 ```haskell
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -1989,7 +1989,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.html`:
+#### `html`:
 ```html
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2028,7 +2028,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.hx`:
+#### `hx`:
 ```hx
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2067,7 +2067,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.hybris`:
+#### `hybris`:
 ```hybris
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2106,7 +2106,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.ini`:
+#### `ini`:
 ```ini
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2145,7 +2145,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.io`:
+#### `io`:
 ```io
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2184,7 +2184,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.ioke`:
+#### `ioke`:
 ```ioke
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2223,7 +2223,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.irc`:
+#### `irc`:
 ```irc
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2262,7 +2262,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.jade`:
+#### `jade`:
 ```jade
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2301,7 +2301,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.java`:
+#### `java`:
 ```java
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2340,7 +2340,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.js`:
+#### `js`:
 ```js
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2379,7 +2379,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.jsp`:
+#### `jsp`:
 ```jsp
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2418,7 +2418,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.lhs`:
+#### `lhs`:
 ```lhs
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2457,7 +2457,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.llvm`:
+#### `llvm`:
 ```llvm
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2496,7 +2496,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.logtalk`:
+#### `logtalk`:
 ```logtalk
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2535,7 +2535,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.lua`:
+#### `lua`:
 ```lua
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2574,7 +2574,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.make`:
+#### `make`:
 ```make
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2613,7 +2613,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.'Makefile',`:
+#### `'Makefile',`:
 ```'Makefile',
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2652,7 +2652,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.'makefile',`:
+#### `'makefile',`:
 ```'makefile',
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2691,7 +2691,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.'GNUmakefile')`:
+#### `'GNUmakefile')`:
 ```'GNUmakefile')
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2730,7 +2730,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.mako`:
+#### `mako`:
 ```mako
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2769,7 +2769,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.maql`:
+#### `maql`:
 ```maql
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2808,7 +2808,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.mason`:
+#### `mason`:
 ```mason
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2847,7 +2847,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.'autohandler',`:
+#### `'autohandler',`:
 ```'autohandler',
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2886,7 +2886,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.'dhandler')`:
+#### `'dhandler')`:
 ```'dhandler')
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2925,7 +2925,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.markdown`:
+#### `markdown`:
 ```markdown
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -2964,7 +2964,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.modelica`:
+#### `modelica`:
 ```modelica
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3003,7 +3003,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.modula2`:
+#### `modula2`:
 ```modula2
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3042,7 +3042,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.moocode`:
+#### `moocode`:
 ```moocode
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3081,7 +3081,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.mupad`:
+#### `mupad`:
 ```mupad
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3120,7 +3120,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.mxml`:
+#### `mxml`:
 ```mxml
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3159,7 +3159,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.myghty`:
+#### `myghty`:
 ```myghty
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3198,7 +3198,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.'autodelegate')`:
+#### `'autodelegate')`:
 ```'autodelegate')
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3237,7 +3237,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.nasm`:
+#### `nasm`:
 ```nasm
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3276,7 +3276,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.newspeak`:
+#### `newspeak`:
 ```newspeak
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3315,7 +3315,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.objdump`:
+#### `objdump`:
 ```objdump
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3354,7 +3354,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.objectivec`:
+#### `objectivec`:
 ```objectivec
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3393,7 +3393,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.objectivej`:
+#### `objectivej`:
 ```objectivej
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3432,7 +3432,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.ocaml`:
+#### `ocaml`:
 ```ocaml
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3471,7 +3471,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.ooc`:
+#### `ooc`:
 ```ooc
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3510,7 +3510,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.perl`:
+#### `perl`:
 ```perl
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3549,7 +3549,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.php`:
+#### `php`:
 ```php
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3588,7 +3588,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.postscript`:
+#### `postscript`:
 ```postscript
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3627,7 +3627,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.pot`:
+#### `pot`:
 ```pot
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3666,7 +3666,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.pov`:
+#### `pov`:
 ```pov
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3705,7 +3705,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.prolog`:
+#### `prolog`:
 ```prolog
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3744,7 +3744,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.properties`:
+#### `properties`:
 ```properties
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3783,7 +3783,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.protobuf`:
+#### `protobuf`:
 ```protobuf
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3822,7 +3822,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.py3tb`:
+#### `py3tb`:
 ```py3tb
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3861,7 +3861,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.pytb`:
+#### `pytb`:
 ```pytb
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3900,7 +3900,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.python`:
+#### `python`:
 ```python
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3939,7 +3939,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.'SConstruct',`:
+#### `'SConstruct',`:
 ```'SConstruct',
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -3978,7 +3978,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.'SConscript',`:
+#### `'SConscript',`:
 ```'SConscript',
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4017,7 +4017,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.r`:
+#### `r`:
 ```r
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4056,7 +4056,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.rb`:
+#### `rb`:
 ```rb
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4095,7 +4095,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.'Rakefile',`:
+#### `'Rakefile',`:
 ```'Rakefile',
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4134,7 +4134,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.rconsole`:
+#### `rconsole`:
 ```rconsole
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4173,7 +4173,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.rebol`:
+#### `rebol`:
 ```rebol
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4212,7 +4212,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.redcode`:
+#### `redcode`:
 ```redcode
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4251,7 +4251,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.rhtml`:
+#### `rhtml`:
 ```rhtml
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4290,7 +4290,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.rst`:
+#### `rst`:
 ```rst
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4329,7 +4329,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.sass`:
+#### `sass`:
 ```sass
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4368,7 +4368,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.scala`:
+#### `scala`:
 ```scala
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4407,7 +4407,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.scaml`:
+#### `scaml`:
 ```scaml
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4446,7 +4446,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.scheme`:
+#### `scheme`:
 ```scheme
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4485,7 +4485,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.scss`:
+#### `scss`:
 ```scss
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4524,7 +4524,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.smalltalk`:
+#### `smalltalk`:
 ```smalltalk
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4563,7 +4563,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.smarty`:
+#### `smarty`:
 ```smarty
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4602,7 +4602,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.sourceslist`:
+#### `sourceslist`:
 ```sourceslist
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4641,7 +4641,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.splus`:
+#### `splus`:
 ```splus
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4680,7 +4680,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.sql`:
+#### `sql`:
 ```sql
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4719,7 +4719,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.sqlite3`:
+#### `sqlite3`:
 ```sqlite3
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4758,7 +4758,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.squidconf`:
+#### `squidconf`:
 ```squidconf
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4797,7 +4797,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.ssp`:
+#### `ssp`:
 ```ssp
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4836,7 +4836,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.tcl`:
+#### `tcl`:
 ```tcl
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4875,7 +4875,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.tcsh`:
+#### `tcsh`:
 ```tcsh
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4914,7 +4914,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.tex`:
+#### `tex`:
 ```tex
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4953,7 +4953,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.text`:
+#### `text`:
 ```text
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -4992,7 +4992,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.v`:
+#### `v`:
 ```v
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -5031,7 +5031,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.vala`:
+#### `vala`:
 ```vala
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -5070,7 +5070,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.vbnet`:
+#### `vbnet`:
 ```vbnet
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -5109,7 +5109,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.velocity`:
+#### `velocity`:
 ```velocity
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -5148,7 +5148,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.vim`:
+#### `vim`:
 ```vim
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -5187,7 +5187,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.xml`:
+#### `xml`:
 ```xml
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -5226,7 +5226,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.xquery`:
+#### `xquery`:
 ```xquery
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -5265,7 +5265,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.xslt`:
+#### `xslt`:
 ```xslt
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
@@ -5304,7 +5304,7 @@ error[E0195]: lifetime parameters do not match the trait definition
 error: could not compile `playground` (lib) due to 1 previous error
 ```
 
-#### `.yaml`:
+#### `yaml`:
 ```yaml
 error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17

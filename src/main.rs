@@ -9,7 +9,7 @@ fn main() {
 
     for ext in ext {
         let text = format!("
-#### `.{ext}`:
+#### `{ext}`:
 ```{ext}
 {TEXT}
 ```
@@ -17,6 +17,42 @@ fn main() {
         file.write_all(text.as_bytes()).unwrap();
     }
 }
+
+const FILTER: [&str; 33] = [
+    "ada",
+    "ahk",
+    "apacheconf",
+    "applescript",
+    "bat",
+    "cl",
+    "clojure",
+    "console",
+    "csharp",
+    "gas",
+    "gitignore",
+    "go",
+    "haskell",
+    "io",
+    "ioke",
+    "java",
+    "js",
+    "llvm",
+    "lua",
+    "mako",
+    "markdown",
+    "modelica",
+    "ocaml",
+    "pov",
+    "prolog",
+    "python",
+    "rst",
+    "sass",
+    "scala",
+    "tcl",
+    "text",
+    "vim",
+    "yaml",
+];
 
 const TEXT: &str = "error[E0195]: lifetime parameters do not match the trait definition
    --> src/lib.rs:7:17
